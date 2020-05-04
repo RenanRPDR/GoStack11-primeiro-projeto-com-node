@@ -49,10 +49,8 @@
 
   ---
 
-  Feito por Renan Portugal do Rio
+  <h3 align="center">Feito por Renan Portugal do Rio</h3>
 
-   <h1 align="left">
+   <h1 align="center">
       <img src="https://ik.imagekit.io/911o9a87sc/logo_ytBUeCmpV.png"  width=200 height=250>
   </h1>
-
-</div>
